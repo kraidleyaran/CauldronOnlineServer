@@ -1,0 +1,18 @@
+{
+	"PhysicalDamagePerStrength":0.65,
+	"PhysicalDamagePerAgility":0.45,
+	"PhysicalDefensePerStrength":0.1,
+	"PhysicalDefensePerAgility":0.2,
+	"PhysicalCritPerAgility":0.0025,
+	"MagicalDamagePerWisdom":0.75,
+	"ManaReductionPerWisdom":0.0,
+	"CriticalStrikePerLuck":0.0035,
+	"MagicalCritPerWisdom":0.0025,
+	"ItemQuantityBonusPerLuck":0.01,
+    "PhysicalDefensePerArmor":0.5,
+    "MagicalDefensePerArmor":0.3,
+	"DamagePerDefense":0.33,
+	"OutOfPovAggro":-1,
+	"PathChangeAggro":-1,
+	"DamageAggro":10,
+}

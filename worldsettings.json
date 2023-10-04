@@ -1,0 +1,18 @@
+{
+	"Port":42069,
+	"MessageTick":25,
+	"ZoneTick":160,
+	"BaseFolder":"C:\\CauldronOnline",
+	"ZoneSubFolder":"Zones",
+	"TraitSubFolder":"Traits",
+	"LootTableSubFolder":"Items\\Loot Tables",
+	"TriggerEventsSubFolder":"Trigger Events",
+	"CombatSettingsSubPath":"combatsettings.json",
+	"TileSize": 16,
+	"StartupCommands":[
+		{
+			"Command":"setdefaultzone",
+			"Args": ["lusitania"]
+		}
+	]
+}
