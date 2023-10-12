@@ -3,6 +3,7 @@
 	"MessageTick":25,
 	"ZoneTick":160,
 	"BaseFolder":"C:\\CauldronOnline",
+	"LogSubFolder":"Logs\\Dev",
 	"ZoneSubFolder":"Zones",
 	"TraitSubFolder":"Traits",
 	"LootTableSubFolder":"Items\\Loot Tables",

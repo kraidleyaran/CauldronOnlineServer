@@ -1,6 +1,6 @@
 {
-	"PhysicalDamagePerStrength":0.65,
-	"PhysicalDamagePerAgility":0.45,
+	"PhysicalDamagePerStrength":0.33,
+	"PhysicalDamagePerAgility":0.25,
 	"PhysicalDefensePerStrength":0.1,
 	"PhysicalDefensePerAgility":0.2,
 	"PhysicalCritPerAgility":0.0025,
