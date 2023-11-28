@@ -20,5 +20,7 @@
 	"PathChangeAggro":-1,
 	"GlobalReApplyTicks":5,
 	"ExperiencePerPlayerMultiplier":0.10,
-	"ItemQuantityPerPlayerMultiplier":0.12
+	"ItemQuantityPerPlayerMultiplier":0.12,
+	"DeathGoldPerLevel":25,
+	"DeathGoldPercentPerArmorValue":0.05
 }
