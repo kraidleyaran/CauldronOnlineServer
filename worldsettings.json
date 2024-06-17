@@ -1,7 +1,9 @@
 {
 	"Port":42069,
-	"MessageTick":25,
-	"ZoneTick":160,
+	"MessageTick":20,
+	"SubTick":80,
+	"SubTicksPerZoneTick":2,
+	"SaveTick":300000,
 	"BaseFolder":"C:\\CauldronOnline",
 	"LogSubFolder":"Logs\\Dev",
 	"ZoneSubFolder":"Zones",
@@ -9,11 +11,13 @@
 	"LootTableSubFolder":"Items\\Loot Tables",
 	"TriggerEventsSubFolder":"Trigger Events",
 	"CombatSettingsSubPath":"combatsettings.json",
+	"SaveSubFolder":"Save",
+	"StartingWorldSubPath":"startingworld.json",
 	"TileSize": 16,
 	"StartupCommands":[
 		{
 			"Command":"setdefaultzone",
-			"Args": ["lusitania"]
+			"Args": ["citadel"]
 		}
 	]
 }

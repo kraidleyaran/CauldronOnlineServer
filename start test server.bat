@@ -1,1 +1,1 @@
-"C:\CauldronOnline\bin\CauldronOnlineServerConsole.exe" "C:\CauldronOnline\worldsettings - Test Server.json"
+"C:\CauldronOnline\bin\CauldronOnlineServerConsole.exe" "C:\CauldronOnline\worldsettings - Test Server.json" dev
