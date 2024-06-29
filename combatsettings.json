@@ -1,26 +1,5 @@
 {
-	"PhysicalDamagePerStrength":0.3,
-	"PhysicalDamagePerAgility":0.2,
-	"PhysicalDefensePerStrength":0.12,
-	"PhysicalDefensePerAgility":0.2,
-	"PhysicalCritPerAgility":0.003,
-	"MagicalDamagePerWisdom":0.4,
-	"MagicalHealPerWisdom":0.3,
-	"MagicalHealPerBonusDamage":0.25,
-	"ManaReductionPerWisdom":0.1,
-	"CriticalStrikePerLuck":0.0035,
-	"CriticalStrikeDamagePercent":1.0,
-	"MagicalCritPerWisdom":0.0025,
-	"ItemQuantityBonusPerLuck":0.01,
-	"OnChanceBonusPerLuck":0.005,
-    "PhysicalDefensePerArmor":0.45,
-    "MagicalDefensePerArmor":0.25,
-	"DamagePerDefense":0.32,
-	"OutOfPovAggro":-1,
-	"PathChangeAggro":-1,
+	"DamagePerDefense":0.01,
 	"GlobalReApplyTicks":5,
-	"ExperiencePerPlayerMultiplier":0.10,
-	"ItemQuantityPerPlayerMultiplier":0.12,
-	"DeathGoldPerLevel":25,
-	"DeathGoldPercentPerArmorValue":0.05
+	
 }
