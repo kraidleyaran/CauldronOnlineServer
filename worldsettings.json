@@ -1,8 +1,8 @@
 {
-	"Port":42069,
+	"Port":41242,
 	"MessageTick":20,
-	"SubTick":80,
-	"SubTicksPerZoneTick":2,
+	"SubTick":300,
+	"SubTicksPerZoneTick":1,
 	"SaveTick":150000,
 	"BaseFolder":"C:\\CauldronOnline",
 	"LogSubFolder":"Logs\\Dev",
